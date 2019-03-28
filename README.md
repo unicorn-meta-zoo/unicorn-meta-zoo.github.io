@@ -13,4 +13,5 @@ Feed checks:
 
 * [Cast Feed Validator](http://castfeedvalidator.com/?url=https://unicorn-meta-zoo.github.io/index.rss)
 
+* [podbase Podcast Validator](https://podba.se/validate/?url=https://unicorn-meta-zoo.github.io/index.rss)
 
