@@ -61,7 +61,8 @@
       <% unless item.tag2.TDES.blank?  %>
         <description><%= h(item.tag2.TDES) %></description>
       <% end %>
-      <itunes:image href="<%= url %>E<%= item.tag.tracknum %>.jpg"/>
+      
+      <itunes:image href="<%= File.dirname(item.url.to_s) %>/E<%= item.tag.tracknum %>.jpg"/>
       <% unless prefix_url.blank? %>
         <% item.url = [prefix_url,
                       + URI.parse(item.url.to_s).host,
