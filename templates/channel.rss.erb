@@ -50,7 +50,9 @@
   <% end %>
   <% items.each{|item| %>
     <item>
-      <title><%= h(item.tag.title || item.file_path.to_s) %></title>
+      <title><%= item.tag.tracknum %>: <%= h(item.tag.title || item.file_path.to_s) %></title>
+      <itunes:title><%= h(item.tag.title || item.file_path.to_s) %></itunes:title>
+      <itunes:episode><%= item.tag.tracknum %></itunes:episode>
       <itunes:author><%= h(item.tag.artist) %></itunes:author>
       <% unless item.tag2.TT3.blank? && item.tag2.TIT3.blank? %>
         <itunes:subtitle><%= h(truncate(item.tag2.TT3 || item.tag2.TIT3, 50)) %></itunes:subtitle>
@@ -59,13 +61,12 @@
       <% unless item.tag2.TDES.blank?  %>
         <description><%= h(item.tag2.TDES) %></description>
       <% end %>
-      <itunes:image href="<%= item.image_url %>"/>
+      <itunes:image href="<%= url %>E<%= item.tag.tracknum %>.jpg"/>
       <% unless prefix_url.blank? %>
         <% item.url = [prefix_url,
                       + URI.parse(item.url.to_s).host,
                       + URI.parse(item.url.to_s).path].join('') %>
       <% end %>
-     
       <enclosure url="<%= item.url %>" length="<%= item.file_size %>" type="audio/mp3"/>
       <link><%= item.url %></link>
       <guid isPermaLink="false"><%= h(item.uuid) %></guid>

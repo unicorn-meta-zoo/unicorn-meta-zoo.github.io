@@ -1,11 +1,12 @@
 ## Unicorn Meta Zoo
 ### A Stack Exchange community manager podcast
 
+1. [Why another podcast?](https://meta.stackexchange.com/questions/326560/unicorn-meta-zoo-1-why-another-podcast)
+
 Get your
 [RSS feed of all episodes](https://unicorn-meta-zoo.github.io/index.rss)!
 
-(Right now it's _one_ episode and it's not really published just
-yet. But hopefully there will be more soon.)
+Right now it's _one_ episode but hopefully there will be more soon.
 
 Feed checks:
 
