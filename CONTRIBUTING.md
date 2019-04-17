@@ -1,8 +1,8 @@
 The main thing I expect people will want to contribute is
-[episode transcripts](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki). This was [an overwelmingly popular feature request](https://meta.stackexchange.com/a/326565/1438). I
-made the licence for my code
+[episode transcripts](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki). This was [an overwhelmingly popular feature request](https://meta.stackexchange.com/a/326565/1438). I
+made the license for my code
 [MIT](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/blob/master/LICENSE),
-but the wiki is under the same licence as user contributions on Stack
+but the wiki is under the same license as user contributions on Stack
 Exchange:
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
 
@@ -17,12 +17,12 @@ it works:
    join the Transcription Club!" Please tell me how you'd like to be
    credited in the show notes.
 
-3. When a new episode is ready to be trascribed, I'll email out a
+3. When a new episode is ready to be transcribed, I'll email out a
    Google doc to the club that includes a link to a future
    episode. (Please don't share that link or the document with
    anyone!)
 
-4. As you listen to the new episode, trascribe a couple of minutes to
+4. As you listen to the new episode, transcribe a couple of minutes to
    help people who want to read what's said. (Please leave a timestamp
    when you start and stop so future transcribers can jump to the
    right spot in the audio.)
@@ -33,7 +33,7 @@ it works:
 6. Once each episode is fully transcribed (or if I publish it), I'll
    send out the next episode for transcription.
 
-7. If you don't have the time, energy or interest to transcibe
+7. If you don't have the time, energy or interest to transcribe
    episodes, just let me know and I'll take you off the mailing list.
 
 
