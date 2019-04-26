@@ -8,6 +8,16 @@ Get your
 
 Right now it's _one_ episode but hopefully there will be more soon.
 
+You can also subscribe at:
+
+* [Apple Podcasts](https://podcasts.apple.com/us/podcast/unicorn-meta-zoo/id1457917389)
+* [Google Play](https://play.google.com/music/listen?u=0#/ps/If4hnqdflhqxtkrkd7bkomuwa4y)
+* [Spotify](https://open.spotify.com/show/0nNUpxfY4jeOQKSy2JjugB)
+* [Stitcher](https://www.stitcher.com/podcast/unicorn-meta-zoo)
+* [TuneIn](https://tunein.com/podcasts/Technology-Podcasts/Unicorn-Meta-Zoo-p1214621/)
+* [Overcast](https://overcast.fm/itunes1457917389/unicorn-meta-zoo)
+  (My service of choice.)
+
 Feed checks:
 
 * <a href="https://validator.w3.org/feed/check.cgi?url=https%3A//unicorn-meta-zoo.github.io/index.rss"><img src="valid-rss-rogers.png" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
