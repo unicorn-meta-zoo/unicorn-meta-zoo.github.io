@@ -36,6 +36,16 @@ it works:
 7. If you don't have the time, energy or interest to transcribe
    episodes, just let me know and I'll take you off the mailing list.
 
+To assist in transcribing the episodes, I'll try to provide an
+auto-transcription from YouTube. The first step is to convert the
+audio into a video that YouTube will accept, which is quick an easy to
+do with [ffmpeg](http://ffmpeg.org/):
 
+```
+ffmpeg -framerate 1/5 -i E1.jpg -i why-podcast.mp3 -c:a copy -c:v libx264 why-podcast.mp4
+```
+
+The result isn't really a useful video, but it processes real quick
+and does produce captions, which seem better than nothing. 
 
 Thank you for your generous donation of time and effort to help others!
