@@ -35,7 +35,7 @@ file=$dir/`basename -s md $post`mp3
 eyeD3 --remove-all $file
 
 eyeD3 --track $episode \
-      --add-image "$url/E$episode.jpg:FRONT_COVER"  \
+      --add-image "${url}E$episode.jpg:FRONT_COVER"  \
       --title "$title" \
       --artist "$artist" \
       -Y $year \
