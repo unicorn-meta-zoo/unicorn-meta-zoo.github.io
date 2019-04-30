@@ -21,6 +21,108 @@
     <generator>Dropcaster 1.0.0</generator>
     <itunes:keywords>meta,stack exchange,stack overflow,q&amp;a,questions,answers,community</itunes:keywords>
     <item>
+      <title>2: What is the role of moderators?</title>
+      <itunes:title>What is the role of moderators?</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>The Stack Exchange Community Team</itunes:author>
+      <itunes:subtitle>Welcome to the second episode of [Unicorn Meta...</itunes:subtitle>
+      <itunes:summary>Welcome to the second episode of [Unicorn Meta
+Zoo](https://meta.stackexchange.com/questions/tagged/unicorn-meta-zoo),
+a brand new podcast by members of the Stack Exchange community team. If
+you want to avoid spoilers, jump [straight to the
+audio](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3).
+
+### Participants
+
+[![hairboat](https://stackexchange.com/users/flair/463168.png)](https://stackexchange.com/users/463168)
+[![Juan
+M](https://stackexchange.com/users/flair/6254215.png)](https://stackexchange.com/users/6254215)
+[![Jon
+Ericson](https://stackexchange.com/users/flair/1083.png)](https://stackexchange.com/users/1083)
+
+We're talking about moderation and how it's different on Stack Exchange
+than on forums.
+
+### Links
+
+-   Our OG [Theory of
+    Moderation](https://stackoverflow.blog/2009/05/18/a-theory-of-moderation/)
+-   Our refined [Theory of
+    Moderation](https://stackoverflow.blog/2018/11/21/our-theory-of-moderation-re-visited/)
+-   [My explanation of moderator
+    elections](https://stackoverflow.blog/2016/03/01/fair-elections-and-stv/)
+
+### Transcript
+
+I [used
+YouTube](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/blob/master/CONTRIBUTING.md)
+to produce [a raw, automated
+transcript](https://unicorn-meta-zoo.github.io/episodes/moderation.sbv)
+of this episode. There is a [wiki for
+transcripts](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki),
+if you'd like to produce a cleaner, more coherent transcript. I'm
+extremely grateful for users who helped fill in most of [the first
+episode's
+transcript](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki/Why-another-podcast%3F-%5BTranscript%5D):
+
+-   grooveplex
+-   Jeremy Banks
+-   MilkyWay90
+
+### Meta
+
+Moments before the start of this episode, Abby asked if the name of the
+podcast is "Meta Petting Zoo". In the heat of the moment I couldn't
+remember and just said yes. In reality, the name we decided on was
+"Unicorn Meta Zoo" based on actual [unicorn petting
+zoos](http://www.allgodscreatures.net/Unicorns.html). Abby just changed
+to the wrong word to "meta".
+
+At around the 18:40 mark in the recording you can hear Abby's tea slide
+off her tilted desk and fall on the floor. No mugs were harmed in the
+making of this podcast. The same can't be said of the tea.
+
+For some reason, Juan's channel got really noisy in the beginning of the
+episode with my podcast editing script. I fixed the problem by [making
+the pre-channel loudness normalization
+optional](https://github.com/jericson/edit_podcast.rb/commit/c04f1f9af1f3306cd6bce87aaf11a58e1293c63d).
+
+### What do you think?
+
+[Take a
+listen](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3)
+and respond in the answers below.</itunes:summary>
+      <description>&lt;p&gt;Welcome to the second episode of &lt;a href="https://meta.stackexchange.com/questions/tagged/unicorn-meta-zoo"&gt;Unicorn Meta Zoo&lt;/a&gt;, a brand new podcast by members of the Stack Exchange community team. If you want to avoid spoilers, jump &lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3"&gt;straight to the audio&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="participants"&gt;Participants&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://stackexchange.com/users/463168"&gt;&lt;img src="https://stackexchange.com/users/flair/463168.png" alt="hairboat" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/6254215"&gt;&lt;img src="https://stackexchange.com/users/flair/6254215.png" alt="Juan M" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/1083"&gt;&lt;img src="https://stackexchange.com/users/flair/1083.png" alt="Jon Ericson" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’re talking about moderation and how it’s different on Stack Exchange than on forums.&lt;/p&gt;
+&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Our OG &lt;a href="https://stackoverflow.blog/2009/05/18/a-theory-of-moderation/"&gt;Theory of Moderation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Our refined &lt;a href="https://stackoverflow.blog/2018/11/21/our-theory-of-moderation-re-visited/"&gt;Theory of Moderation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stackoverflow.blog/2016/03/01/fair-elections-and-stv/"&gt;My explanation of moderator elections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="transcript"&gt;Transcript&lt;/h3&gt;
+&lt;p&gt;I &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/blob/master/CONTRIBUTING.md"&gt;used YouTube&lt;/a&gt; to produce &lt;a href="https://unicorn-meta-zoo.github.io/episodes/moderation.sbv"&gt;a raw, automated transcript&lt;/a&gt; of this episode. There is a &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki"&gt;wiki for transcripts&lt;/a&gt;, if you’d like to produce a cleaner, more coherent transcript. I’m extremely grateful for users who helped fill in most of &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki/Why-another-podcast%3F-%5BTranscript%5D"&gt;the first episode’s transcript&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;grooveplex&lt;/li&gt;
+&lt;li&gt;Jeremy Banks&lt;/li&gt;
+&lt;li&gt;MilkyWay90&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="meta"&gt;Meta&lt;/h3&gt;
+&lt;p&gt;Moments before the start of this episode, Abby asked if the name of the podcast is “Meta Petting Zoo”. In the heat of the moment I couldn’t remember and just said yes. In reality, the name we decided on was “Unicorn Meta Zoo” based on actual &lt;a href="http://www.allgodscreatures.net/Unicorns.html"&gt;unicorn petting zoos&lt;/a&gt;. Abby just changed to the wrong word to “meta”.&lt;/p&gt;
+&lt;p&gt;At around the 18:40 mark in the recording you can hear Abby’s tea slide off her tilted desk and fall on the floor. No mugs were harmed in the making of this podcast. The same can’t be said of the tea.&lt;/p&gt;
+&lt;p&gt;For some reason, Juan’s channel got really noisy in the beginning of the episode with my podcast editing script. I fixed the problem by &lt;a href="https://github.com/jericson/edit_podcast.rb/commit/c04f1f9af1f3306cd6bce87aaf11a58e1293c63d"&gt;making the pre-channel loudness normalization optional&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="what-do-you-think"&gt;What do you think?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3"&gt;Take a listen&lt;/a&gt; and respond in the answers below.&lt;/p&gt;</description>
+      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E2.jpg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3" length="13513528" type="audio/mp3"/>
+      <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3</link>
+      <guid isPermaLink="false">6d1409c9655ddf3b4e17df5ec3f00b1899f8e3fe</guid>
+      <pubDate>Tue, 30 Apr 2019 10:20:33 -0400</pubDate>
+      <itunes:duration>1402</itunes:duration>
+    </item>
+    <item>
       <title>1: Why another podcast?</title>
       <itunes:title>Why another podcast?</itunes:title>
       <itunes:episode>1</itunes:episode>
@@ -114,7 +216,7 @@ and respond in the answers below.</itunes:summary>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/why-podcast.mp3" length="13185167" type="audio/mp3"/>
       <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/why-podcast.mp3</link>
       <guid isPermaLink="false">914b98ccf421201933b94cecbac222d81fd3b4c6</guid>
-      <pubDate>Wed, 10 Apr 2019 12:00:23 -0700</pubDate>
+      <pubDate>Mon, 15 Apr 2019 02:00:26 -0400</pubDate>
       <itunes:duration>1278</itunes:duration>
     </item>
   </channel>

@@ -1,0 +1,1752 @@
+0:00:00.180,0:00:28.140
+[Music]
+
+0:00:24.650,0:00:29.699
+and welcome to the meta meta petting zoo
+
+0:00:28.140,0:00:31.410
+episode number two I believe it's
+
+0:00:29.699,0:00:33.030
+episode number two it could be any
+
+0:00:31.410,0:00:35.100
+episode you want by the time we listen
+
+0:00:33.030,0:00:37.590
+to this but we'll say it's two for the
+
+0:00:35.100,0:00:40.649
+purposes of this show my name is Abbey
+
+0:00:37.590,0:00:42.480
+aka hair boat here on the stack overflow
+
+0:00:40.649,0:00:45.270
+Stack Exchange sites I'm here with John
+
+0:00:42.480,0:00:47.010
+and Juan as as we were last time let's
+
+0:00:45.270,0:00:48.690
+all maybe go around and introduce
+
+0:00:47.010,0:00:51.449
+ourselves again for the folks at home
+
+0:00:48.690,0:00:54.600
+who maybe don't know how amazing and
+
+0:00:51.449,0:00:58.500
+wonderful you guys are starting with one
+
+0:00:54.600,0:01:00.960
+hi what's up somebody was fun M I am one
+
+0:00:58.500,0:01:04.409
+of the community managers here I am NOT
+
+0:01:00.960,0:01:06.390
+John but I am Juan in case anybody is
+
+0:01:04.409,0:01:08.610
+wondering and yeah happy to be here in
+
+0:01:06.390,0:01:13.049
+our second our second episode John
+
+0:01:08.610,0:01:15.720
+firstly I am John and not one you know
+
+0:01:13.049,0:01:17.580
+how in like Spanish class you were all
+
+0:01:15.720,0:01:19.229
+supposed to like I don't know if you had
+
+0:01:17.580,0:01:22.049
+to do this one but I had to come up with
+
+0:01:19.229,0:01:24.420
+my Spanish name and it was always one
+
+0:01:22.049,0:01:34.140
+and I was like I don't want to be one I
+
+0:01:24.420,0:01:37.229
+just wanted John I convinced people that
+
+0:01:34.140,0:01:37.380
+I was Jonathan oh that's what it should
+
+0:01:37.229,0:01:42.240
+be
+
+0:01:37.380,0:01:44.340
+not that I'm happy as I said I am
+
+0:01:42.240,0:01:45.960
+neither John nor Juan when I was in
+
+0:01:44.340,0:01:47.820
+French class in middle school I had to
+
+0:01:45.960,0:01:49.770
+pick a French name and I went with Emily
+
+0:01:47.820,0:01:51.030
+because that was my sister's name is
+
+0:01:49.770,0:01:53.130
+Emily and there's a French version of
+
+0:01:51.030,0:01:55.500
+that there is no French version of Abby
+
+0:01:53.130,0:01:57.479
+or Abigail as far as I know although my
+
+0:01:55.500,0:01:59.430
+nickname my mom used to call me as a kid
+
+0:01:57.479,0:02:02.310
+a babe which is the French word for be
+
+0:01:59.430,0:02:03.689
+like a like a bumblebee because I used
+
+0:02:02.310,0:02:04.979
+to I used to talk a lot and be really
+
+0:02:03.689,0:02:07.590
+annoying and also it sounded like my
+
+0:02:04.979,0:02:09.209
+name so I was a I was a bumblebee and
+
+0:02:07.590,0:02:13.480
+she could tell me to to buzz off maybe
+
+0:02:09.209,0:02:16.270
+that was so you can call me Abby or
+
+0:02:13.480,0:02:18.670
+or Emily or hey you or buzz off or or
+
+0:02:16.270,0:02:21.129
+whatever if you like
+
+0:02:18.670,0:02:23.489
+speaking of bumblebees and buzzing off
+
+0:02:21.129,0:02:28.150
+we're gonna talk about moderation today
+
+0:02:23.489,0:02:29.470
+okay I'm going with maybe so as everyone
+
+0:02:28.150,0:02:30.670
+listening to this probably knows
+
+0:02:29.470,0:02:31.989
+definitely knows you probably are a
+
+0:02:30.670,0:02:33.370
+moderator if you're listening to this
+
+0:02:31.989,0:02:37.239
+honestly or our audience is fairly
+
+0:02:33.370,0:02:39.069
+limited we rely on our moderators
+
+0:02:37.239,0:02:40.510
+throughout the network to keep things
+
+0:02:39.069,0:02:43.870
+moving keep things running keep things
+
+0:02:40.510,0:02:45.489
+clean and simple but also just keep the
+
+0:02:43.870,0:02:47.410
+communities kind of tightly knitted and
+
+0:02:45.489,0:02:48.430
+working together really well so we
+
+0:02:47.410,0:02:50.470
+wanted to take a little bit of time
+
+0:02:48.430,0:02:51.910
+today to talk about moderators
+
+0:02:50.470,0:02:54.069
+moderation what do they do what should
+
+0:02:51.910,0:02:55.569
+they do what do they need from us what
+
+0:02:54.069,0:02:58.239
+do we do for them etcetera
+
+0:02:55.569,0:02:59.739
+so I guess the first thing we got to do
+
+0:02:58.239,0:03:02.560
+is define our terms right that's where
+
+0:02:59.739,0:03:05.049
+you start and so starting by actors
+
+0:03:02.560,0:03:08.470
+functionary suits Webster's dictionary
+
+0:03:05.049,0:03:10.480
+defines a moderator as so yeah we will
+
+0:03:08.470,0:03:12.430
+start with the non dictionary definition
+
+0:03:10.480,0:03:14.590
+of moderator just kind of what what what
+
+0:03:12.430,0:03:16.090
+is a mod here at Stack Exchange Stack
+
+0:03:14.590,0:03:17.829
+Overflow what do they do
+
+0:03:16.090,0:03:19.690
+what what what does moderation been like
+
+0:03:17.829,0:03:23.470
+through the ages and yeah what have you
+
+0:03:19.690,0:03:26.920
+guys observe starting with John yeah so
+
+0:03:23.470,0:03:28.840
+when when the site first started one of
+
+0:03:26.920,0:03:32.500
+the things that it was built on is the
+
+0:03:28.840,0:03:35.920
+idea that you know everyone is working
+
+0:03:32.500,0:03:38.170
+together to produce this content and a
+
+0:03:35.920,0:03:41.470
+lot of the traditional roles of of
+
+0:03:38.170,0:03:43.239
+moderators went to other people in the
+
+0:03:41.470,0:03:45.069
+community so like a lot of places you
+
+0:03:43.239,0:03:48.310
+can't edit other people's posts but a
+
+0:03:45.069,0:03:51.609
+moderator can and around here anybody
+
+0:03:48.310,0:03:54.489
+can edit well you can at least suggest
+
+0:03:51.609,0:03:56.440
+an edit for a post and so there were a
+
+0:03:54.489,0:03:59.739
+lot of things that were intended to be
+
+0:03:56.440,0:04:02.410
+done by by regular users but then you
+
+0:03:59.739,0:04:05.170
+kind of you know there were there's
+
+0:04:02.410,0:04:06.880
+always exceptional cases right so okay
+
+0:04:05.170,0:04:09.819
+fixing a typo well you don't need to be
+
+0:04:06.880,0:04:12.310
+super specialized to do that but what if
+
+0:04:09.819,0:04:16.030
+you have someone who is constantly
+
+0:04:12.310,0:04:18.820
+trying to you know sell their product
+
+0:04:16.030,0:04:20.979
+sort of sneakily within an answer how do
+
+0:04:18.820,0:04:22.720
+you deal with that person or you know
+
+0:04:20.979,0:04:25.539
+just sort of exceptional situations that
+
+0:04:22.720,0:04:26.890
+are beyond the capacity of you know most
+
+0:04:25.539,0:04:27.340
+people in the community need someone
+
+0:04:26.890,0:04:29.530
+with a little bit
+
+0:04:27.340,0:04:31.750
+more specialization so that was I think
+
+0:04:29.530,0:04:33.820
+the original idea of moderators they
+
+0:04:31.750,0:04:35.230
+would be we used to call them exception
+
+0:04:33.820,0:04:38.500
+handlers or we call them exception
+
+0:04:35.230,0:04:41.080
+handlers because these are exceptional
+
+0:04:38.500,0:04:43.840
+situations unusual situations
+
+0:04:41.080,0:04:46.510
+ramaa Network interesting so guys I'm
+
+0:04:43.840,0:04:49.750
+coming from a foreign background where a
+
+0:04:46.510,0:04:52.360
+moderator does not does not function in
+
+0:04:49.750,0:04:53.530
+the same way as a moderator functions
+
+0:04:52.360,0:04:56.710
+here in our network at Stack Overflow
+
+0:04:53.530,0:04:59.139
+and the stock exchange network and so
+
+0:04:56.710,0:05:01.570
+typically what we would do when when
+
+0:04:59.139,0:05:03.760
+looking at a moderator we were we would
+
+0:05:01.570,0:05:08.320
+look at individuals who a were
+
+0:05:03.760,0:05:10.030
+trustworthy B were were almost as a
+
+0:05:08.320,0:05:11.680
+super user right somebody who was highly
+
+0:05:10.030,0:05:14.050
+engaged in the community so I'm going to
+
+0:05:11.680,0:05:16.360
+had good reputation amongst their peers
+
+0:05:14.050,0:05:19.060
+someone who was contributing someone who
+
+0:05:16.360,0:05:21.850
+was who was definitely a user that
+
+0:05:19.060,0:05:25.020
+brought value to to the community and
+
+0:05:21.850,0:05:27.669
+and when when moderation issues come up
+
+0:05:25.020,0:05:30.940
+typically what it is is you know the
+
+0:05:27.669,0:05:32.800
+removal of spam things being posted that
+
+0:05:30.940,0:05:35.800
+are inappropriate content that is not
+
+0:05:32.800,0:05:38.740
+wanted but then also also dealing with
+
+0:05:35.800,0:05:40.150
+with squabbles between between users you
+
+0:05:38.740,0:05:42.190
+know arguments things like that and so
+
+0:05:40.150,0:05:44.440
+you know we would we would want to look
+
+0:05:42.190,0:05:46.389
+for individuals that had these kinds of
+
+0:05:44.440,0:05:48.370
+skill sets to where you know they showed
+
+0:05:46.389,0:05:50.800
+passion and they showed integrity and
+
+0:05:48.370,0:05:53.560
+they also had a level mind and an
+
+0:05:50.800,0:05:55.150
+ability to communicate well at least
+
+0:05:53.560,0:05:57.460
+that's in my mind when I think of a
+
+0:05:55.150,0:05:59.349
+moderator I think of someone who is
+
+0:05:57.460,0:06:02.169
+definitely an exception handler but also
+
+0:05:59.349,0:06:05.169
+someone who is going to possess a degree
+
+0:06:02.169,0:06:06.940
+of skill and in in I don't know we'll
+
+0:06:05.169,0:06:09.789
+call it peopling right yeah just mad
+
+0:06:06.940,0:06:11.830
+vigils that that's going to help with
+
+0:06:09.789,0:06:14.530
+the community grow and be at peace does
+
+0:06:11.830,0:06:16.840
+that does that sound like like like what
+
+0:06:14.530,0:06:20.050
+we're doing here yeah yeah I think so
+
+0:06:16.840,0:06:22.830
+John I was I was about to ask you how if
+
+0:06:20.050,0:06:24.580
+you feel like our current moderation
+
+0:06:22.830,0:06:26.740
+procedures are the way that we find
+
+0:06:24.580,0:06:28.210
+moderators are we optimizing for the
+
+0:06:26.740,0:06:29.710
+same thing as what one's describing from
+
+0:06:28.210,0:06:32.310
+from other communities or what do you
+
+0:06:29.710,0:06:36.120
+think you know that's interesting we had
+
+0:06:32.310,0:06:38.650
+for many years we had a system where
+
+0:06:36.120,0:06:40.500
+sites that had been graduated would
+
+0:06:38.650,0:06:42.870
+would run elections
+
+0:06:40.500,0:06:44.460
+and so it's actually other people in the
+
+0:06:42.870,0:06:47.600
+community who are finding the moderators
+
+0:06:44.460,0:06:52.050
+or who are picking among the nominees
+
+0:06:47.600,0:06:54.590
+and for a long time the beta sites the
+
+0:06:52.050,0:06:56.400
+sites that hadn't reached graduation yet
+
+0:06:54.590,0:06:58.440
+community managers would actually
+
+0:06:56.400,0:07:01.530
+appoint people and I think when I was
+
+0:06:58.440,0:07:02.730
+appointing people regularly all those
+
+0:07:01.530,0:07:05.330
+things that one was talking about were
+
+0:07:02.730,0:07:08.130
+things I was definitely looking at
+
+0:07:05.330,0:07:11.490
+especially for a smaller site the people
+
+0:07:08.130,0:07:15.480
+interaction and the sort of leadership
+
+0:07:11.490,0:07:17.250
+stuff that's probably even more
+
+0:07:15.480,0:07:18.180
+important than being able to handle a
+
+0:07:17.250,0:07:20.640
+bunch of flags
+
+0:07:18.180,0:07:22.110
+so on stackoverflow like exception
+
+0:07:20.640,0:07:25.650
+handling is the real big thing because
+
+0:07:22.110,0:07:28.290
+you've got you know just thousands of
+
+0:07:25.650,0:07:30.030
+flags set to churn through and on a
+
+0:07:28.290,0:07:33.270
+small site you might only get you know a
+
+0:07:30.030,0:07:36.600
+handful of flags in a week but you also
+
+0:07:33.270,0:07:38.760
+have a community conflict and so when
+
+0:07:36.600,0:07:40.650
+when we were running when I was
+
+0:07:38.760,0:07:42.210
+appointing moderators that's the sort of
+
+0:07:40.650,0:07:45.690
+the same sort of person that one was
+
+0:07:42.210,0:07:46.740
+talking about I think yeah that's that's
+
+0:07:45.690,0:07:49.080
+something I've never really considered
+
+0:07:46.740,0:07:51.690
+is so we've we've long known that
+
+0:07:49.080,0:07:53.910
+there's kind of two different theories
+
+0:07:51.690,0:07:55.260
+of moderation there's the soli exception
+
+0:07:53.910,0:07:56.700
+handler you know handling flags and
+
+0:07:55.260,0:07:58.410
+doing things the community can't do and
+
+0:07:56.700,0:08:00.000
+then there's this other leadership role
+
+0:07:58.410,0:08:02.610
+that's kind of better at people enroll
+
+0:08:00.000,0:08:03.840
+like one has been describing and I had
+
+0:08:02.610,0:08:06.270
+never made the connection until you said
+
+0:08:03.840,0:08:07.500
+that just now that there's different
+
+0:08:06.270,0:08:09.180
+communities have different needs at
+
+0:08:07.500,0:08:11.850
+different points in their life cycles so
+
+0:08:09.180,0:08:13.620
+they need often a little bit of flag
+
+0:08:11.850,0:08:15.150
+handling exception handling whatever but
+
+0:08:13.620,0:08:16.740
+if they're smaller like you're
+
+0:08:15.150,0:08:18.870
+describing when we when we were
+
+0:08:16.740,0:08:23.490
+appointing Pro Tem moderators they need
+
+0:08:18.870,0:08:26.280
+a lot more of that designated leadership
+
+0:08:23.490,0:08:28.620
+it's harder for that kind of activity to
+
+0:08:26.280,0:08:30.150
+just bubble up when the activity overall
+
+0:08:28.620,0:08:31.680
+on the site is so much lower and so we
+
+0:08:30.150,0:08:32.969
+need a little boost from us to say hey
+
+0:08:31.680,0:08:35.550
+you're thinking in the right direction
+
+0:08:32.969,0:08:36.810
+you know step up and kind of take a
+
+0:08:35.550,0:08:38.789
+little bit of ownership here and that
+
+0:08:36.810,0:08:43.050
+really encourages people to to help the
+
+0:08:38.789,0:08:44.700
+site coalesce so that that's kind of a
+
+0:08:43.050,0:08:46.020
+distinction I never really made that
+
+0:08:44.700,0:08:47.339
+maybe the needs change over the course
+
+0:08:46.020,0:08:49.530
+of a site's life cycle and we should
+
+0:08:47.339,0:08:52.709
+think about incorporating that into our
+
+0:08:49.530,0:08:53.279
+process why no I was gonna I was going
+
+0:08:52.709,0:08:55.709
+to ask you in
+
+0:08:53.279,0:08:57.749
+experience with you know tons of other
+
+0:08:55.709,0:09:00.120
+online communities have you ever
+
+0:08:57.749,0:09:01.740
+encountered elections on any other kind
+
+0:09:00.120,0:09:04.410
+of community engine or forum or anything
+
+0:09:01.740,0:09:07.139
+like that yeah this is something that is
+
+0:09:04.410,0:09:08.970
+that is more more uncommon at least with
+
+0:09:07.139,0:09:11.459
+the experience that I've had more so
+
+0:09:08.970,0:09:14.100
+because the the placement of moderators
+
+0:09:11.459,0:09:16.199
+in that position was one that an
+
+0:09:14.100,0:09:18.480
+administrator would do a community
+
+0:09:16.199,0:09:20.519
+manager and so depending on depending on
+
+0:09:18.480,0:09:23.430
+the kind of community that the structure
+
+0:09:20.519,0:09:25.589
+would be administrator at least within
+
+0:09:23.430,0:09:27.509
+the system the backends the backend
+
+0:09:25.589,0:09:29.180
+system we have administrators you'd have
+
+0:09:27.509,0:09:31.439
+moderators you would have super users
+
+0:09:29.180,0:09:33.029
+you would have regular users and then
+
+0:09:31.439,0:09:35.100
+you could designate a bunch of different
+
+0:09:33.029,0:09:37.559
+categories of users like you could have
+
+0:09:35.100,0:09:40.259
+a certain part of your sites that only
+
+0:09:37.559,0:09:42.240
+certain people can access like if you
+
+0:09:40.259,0:09:43.559
+had a marketplace right you would do
+
+0:09:42.240,0:09:44.819
+verification all those people that have
+
+0:09:43.559,0:09:47.370
+filled out the application been verified
+
+0:09:44.819,0:09:49.769
+would get that that permission to enter
+
+0:09:47.370,0:09:52.649
+that specific part of the site and so
+
+0:09:49.769,0:09:54.569
+giving permissions was a big deal and so
+
+0:09:52.649,0:09:57.029
+the administrator which could be the the
+
+0:09:54.569,0:09:59.550
+community manager in my experience would
+
+0:09:57.029,0:10:02.279
+appoint the moderators they would be the
+
+0:09:59.550,0:10:04.649
+ones to to place these individuals in
+
+0:10:02.279,0:10:06.899
+that position because you're talking
+
+0:10:04.649,0:10:11.339
+about working within a team and so it
+
+0:10:06.899,0:10:14.759
+isn't just you know clean up do do you
+
+0:10:11.339,0:10:16.740
+know do spam removal or you know send
+
+0:10:14.759,0:10:18.959
+people their passwords or send them you
+
+0:10:16.740,0:10:21.329
+know a link or so it it involved a bit
+
+0:10:18.959,0:10:25.319
+more interacting with the community it
+
+0:10:21.329,0:10:26.939
+involved talking with them and sharing a
+
+0:10:25.319,0:10:28.470
+vision it involved getting them to
+
+0:10:26.939,0:10:30.389
+buy-in into a direction that the
+
+0:10:28.470,0:10:32.009
+community was going to be moving into it
+
+0:10:30.389,0:10:34.649
+involved discussing any features that
+
+0:10:32.009,0:10:37.220
+they wanted there was there was a sense
+
+0:10:34.649,0:10:40.079
+of a team within the within the
+
+0:10:37.220,0:10:42.000
+administration if you will and so here
+
+0:10:40.079,0:10:44.250
+at sac overflow one of the one of the
+
+0:10:42.000,0:10:47.309
+things I had to really get accustomed to
+
+0:10:44.250,0:10:48.600
+is that elections are a big thing and
+
+0:10:47.309,0:10:51.449
+they're important I see the value of it
+
+0:10:48.600,0:10:53.550
+here totally see it but also that the
+
+0:10:51.449,0:10:56.279
+way that we work between and maybe it's
+
+0:10:53.550,0:10:58.800
+a topic we can we can discuss in the
+
+0:10:56.279,0:11:01.589
+future what is a responsibility of a cm
+
+0:10:58.800,0:11:03.540
+to a moderator because we talk a lot
+
+0:11:01.589,0:11:04.889
+about the the responsibility of a
+
+0:11:03.540,0:11:06.240
+moderator at least as this is one of the
+
+0:11:04.889,0:11:06.640
+topics we're doing but internally we
+
+0:11:06.240,0:11:08.080
+just
+
+0:11:06.640,0:11:09.850
+Gus a lot about what a moderator should
+
+0:11:08.080,0:11:12.580
+do but what are what are some of the
+
+0:11:09.850,0:11:14.920
+things that the CMS are responsible to
+
+0:11:12.580,0:11:17.050
+the moderators for and so here it seems
+
+0:11:14.920,0:11:18.190
+like the moderators really are they're
+
+0:11:17.050,0:11:19.720
+brought up from the community which I
+
+0:11:18.190,0:11:22.240
+think it's great they're there their
+
+0:11:19.720,0:11:24.400
+peer reviewed their peer elected they
+
+0:11:22.240,0:11:26.680
+know the system but really what they're
+
+0:11:24.400,0:11:34.930
+doing is they are handling exception
+
+0:11:26.680,0:11:39.490
+cases very very few yet to see a an
+
+0:11:34.930,0:11:42.400
+increase of a of a team like environment
+
+0:11:39.490,0:11:44.860
+to where the community manager will sit
+
+0:11:42.400,0:11:47.020
+with the moderators and discuss the
+
+0:11:44.860,0:11:49.630
+vision of the site will discuss the
+
+0:11:47.020,0:11:51.610
+direction the future you know plans
+
+0:11:49.630,0:11:53.500
+things like that in and granted you so
+
+0:11:51.610,0:11:56.380
+everybody knows there's only a handful
+
+0:11:53.500,0:11:58.210
+of community managers as compared to the
+
+0:11:56.380,0:11:59.590
+number of moderators so it is it's
+
+0:11:58.210,0:12:00.790
+physically impossible and then with the
+
+0:11:59.590,0:12:02.110
+changes that have gone on within the
+
+0:12:00.790,0:12:03.550
+company I mean is it makes it really
+
+0:12:02.110,0:12:05.200
+hard it's not that it's not that we
+
+0:12:03.550,0:12:07.540
+don't want to I just I'd like to see
+
+0:12:05.200,0:12:09.690
+that shift a little bit so from my
+
+0:12:07.540,0:12:12.370
+experience answer your question Abbey is
+
+0:12:09.690,0:12:15.100
+election was something that that was
+
+0:12:12.370,0:12:17.350
+done not very frequently mainly
+
+0:12:15.100,0:12:18.880
+moderators were appointed by the
+
+0:12:17.350,0:12:23.740
+administrator or the community manager
+
+0:12:18.880,0:12:25.030
+so good John I was thinking there this
+
+0:12:23.740,0:12:28.030
+is something I hadn't thought of but
+
+0:12:25.030,0:12:31.180
+when I was a user and a moderator on a
+
+0:12:28.030,0:12:32.830
+small site we did sometimes have those
+
+0:12:31.180,0:12:37.030
+discussions where we would sit down with
+
+0:12:32.830,0:12:38.770
+a community manager and say listen this
+
+0:12:37.030,0:12:42.790
+is where site is this is where we want
+
+0:12:38.770,0:12:45.250
+it to go we even had a full Oh site
+
+0:12:42.790,0:12:51.240
+evaluation process that we would try to
+
+0:12:45.250,0:12:54.970
+do we have 170 something sites now and
+
+0:12:51.240,0:12:58.090
+we haven't grown our community team as
+
+0:12:54.970,0:12:59.950
+fast as we've grown ourselves so I I
+
+0:12:58.090,0:13:05.110
+definitely see that as something I'd
+
+0:12:59.950,0:13:06.880
+like to improve on is is have you know
+
+0:13:05.110,0:13:09.130
+if we're asking our moderators to be
+
+0:13:06.880,0:13:11.320
+leaders on their site like let's help
+
+0:13:09.130,0:13:15.310
+them be be leaders on the site in the
+
+0:13:11.320,0:13:18.250
+various ways that we can you know and
+
+0:13:15.310,0:13:19.900
+not just focus on you know how many
+
+0:13:18.250,0:13:22.390
+flags can you handle this month
+
+0:13:19.900,0:13:23.970
+whatever yeah and go back to go back and
+
+0:13:22.390,0:13:26.110
+hit at a point that you made John I
+
+0:13:23.970,0:13:27.880
+think I think depending on the life
+
+0:13:26.110,0:13:30.490
+cycle as we mentioned depending on where
+
+0:13:27.880,0:13:32.650
+the community is whether you appoint or
+
+0:13:30.490,0:13:34.000
+elect I think it's crucial when the
+
+0:13:32.650,0:13:35.590
+community as young as we know if the
+
+0:13:34.000,0:13:38.560
+community is young still trying to
+
+0:13:35.590,0:13:40.090
+figure out who they are what the main
+
+0:13:38.560,0:13:42.250
+topics are going to be what's accepted
+
+0:13:40.090,0:13:43.270
+what's not it's I think I think it's
+
+0:13:42.250,0:13:46.090
+important have a community manager
+
+0:13:43.270,0:13:47.290
+appoint a moderator there's there's more
+
+0:13:46.090,0:13:48.820
+communication there about what's
+
+0:13:47.290,0:13:51.520
+expected and then once a community gets
+
+0:13:48.820,0:13:52.810
+going like we do in the life cycle of
+
+0:13:51.520,0:13:55.420
+the site's we allow the community to
+
+0:13:52.810,0:13:57.160
+select from among their from among their
+
+0:13:55.420,0:13:59.830
+peers but I think even through all of
+
+0:13:57.160,0:14:01.180
+that we are looking for individuals and
+
+0:13:59.830,0:14:03.580
+those that are moderators on our sites
+
+0:14:01.180,0:14:05.110
+we like to believe and to think that
+
+0:14:03.580,0:14:08.620
+they're individuals that are that are
+
+0:14:05.110,0:14:10.030
+definitely invested in the communities
+
+0:14:08.620,0:14:13.960
+they have a lot to share their knowledge
+
+0:14:10.030,0:14:16.720
+is there I would like to see us increase
+
+0:14:13.960,0:14:19.510
+in in our in our communication with them
+
+0:14:16.720,0:14:20.860
+I know communication is is is increasing
+
+0:14:19.510,0:14:22.120
+now it's not like it hasn't been there
+
+0:14:20.860,0:14:23.800
+and I saw like moderators aren't saying
+
+0:14:22.120,0:14:25.720
+hey we really need these features or hey
+
+0:14:23.800,0:14:27.940
+what about this we know that there they
+
+0:14:25.720,0:14:29.890
+are in fact asking what when I say
+
+0:14:27.940,0:14:32.110
+increase I mean more I'd like to see the
+
+0:14:29.890,0:14:34.210
+community management team engage more
+
+0:14:32.110,0:14:36.670
+with them with again the caveat that
+
+0:14:34.210,0:14:38.440
+because there's so few of us it's it's
+
+0:14:36.670,0:14:41.200
+it's a lot of work to go through each
+
+0:14:38.440,0:14:42.550
+eat each and every sign yeah one thing
+
+0:14:41.200,0:14:44.020
+that occurs to me is I as I listen to
+
+0:14:42.550,0:14:46.530
+you guys talk about this is how much
+
+0:14:44.020,0:14:48.760
+we've been able to achieve at this scale
+
+0:14:46.530,0:14:51.610
+because we've figured out lots of ways
+
+0:14:48.760,0:14:53.260
+to automate automate a lot of the work
+
+0:14:51.610,0:14:55.150
+that community managers of other styles
+
+0:14:53.260,0:14:58.510
+of community might have to do not just
+
+0:14:55.150,0:15:00.730
+moderation you know we do have a lot of
+
+0:14:58.510,0:15:04.840
+literal automation for moderation you
+
+0:15:00.730,0:15:06.640
+know cleaning up voting vote fraud and
+
+0:15:04.840,0:15:07.840
+finding spam and stuff like that there
+
+0:15:06.640,0:15:09.790
+are a lot of robots that do that work
+
+0:15:07.840,0:15:11.470
+for us but also automation in terms of
+
+0:15:09.790,0:15:13.990
+you know elections are an automated
+
+0:15:11.470,0:15:15.250
+process for for finding the people who
+
+0:15:13.990,0:15:16.690
+are moderators we're going to do those
+
+0:15:15.250,0:15:19.060
+exceptions and also the whole reputation
+
+0:15:16.690,0:15:21.340
+system that gives people access to other
+
+0:15:19.060,0:15:24.280
+tools other privileges you know we don't
+
+0:15:21.340,0:15:26.560
+have a concept of you know a super user
+
+0:15:24.280,0:15:27.940
+or special access or whatever like like
+
+0:15:26.560,0:15:29.800
+you were describing on other sites one
+
+0:15:27.940,0:15:31.990
+but we have we have privileges we have
+
+0:15:29.800,0:15:33.260
+if you hit this level you know you can
+
+0:15:31.990,0:15:36.080
+see this these stats
+
+0:15:33.260,0:15:37.700
+use these tools or whatever and that's a
+
+0:15:36.080,0:15:41.570
+direct function of your reputation which
+
+0:15:37.700,0:15:43.280
+is an automated things are so beautiful
+
+0:15:41.570,0:15:45.860
+and they work so well I'm very fortunate
+
+0:15:43.280,0:15:47.180
+to be working within a platform that
+
+0:15:45.860,0:15:49.730
+allows those things to happen because
+
+0:15:47.180,0:15:50.840
+now it's not just the moderator who's
+
+0:15:49.730,0:15:52.940
+gonna get pinged and said hey this
+
+0:15:50.840,0:15:54.410
+person said this or they posted their
+
+0:15:52.940,0:15:55.670
+phone number by accident or their credit
+
+0:15:54.410,0:15:57.140
+card number or their home address can
+
+0:15:55.670,0:15:59.480
+you go in and remove it and nobody can
+
+0:15:57.140,0:16:00.980
+go in and edit a question except for the
+
+0:15:59.480,0:16:02.630
+moderator and again they're always going
+
+0:16:00.980,0:16:03.890
+to be the minority so it's great that we
+
+0:16:02.630,0:16:06.830
+have those privileges I think that's
+
+0:16:03.890,0:16:09.110
+that's a fantastic feature yes it's
+
+0:16:06.830,0:16:10.850
+definitely what's enabled us to to scale
+
+0:16:09.110,0:16:12.830
+to have as many sites as we have and to
+
+0:16:10.850,0:16:14.450
+have the sites that we have that are
+
+0:16:12.830,0:16:16.610
+very active to let them be as active as
+
+0:16:14.450,0:16:17.900
+they are but I think the cost of that is
+
+0:16:16.610,0:16:20.570
+what you guys are describing there's a
+
+0:16:17.900,0:16:22.010
+little bit less interaction between the
+
+0:16:20.570,0:16:23.990
+community team obviously it's very small
+
+0:16:22.010,0:16:27.110
+and there's a scale issue there but we
+
+0:16:23.990,0:16:29.510
+have we rely on our users obviously and
+
+0:16:27.110,0:16:30.770
+these automation processes to get get
+
+0:16:29.510,0:16:32.120
+the stuff done that needs to get done
+
+0:16:30.770,0:16:33.890
+which is great and it's wonderful that
+
+0:16:32.120,0:16:36.290
+it happens but also we're less connected
+
+0:16:33.890,0:16:38.390
+and we've we've over the years kind of
+
+0:16:36.290,0:16:39.590
+drifted a little further away from the
+
+0:16:38.390,0:16:42.410
+communities that's one reason why we're
+
+0:16:39.590,0:16:44.420
+doing this podcast is to to put some
+
+0:16:42.410,0:16:46.940
+human speech you know facial recognition
+
+0:16:44.420,0:16:49.040
+or voice recognition or whatever back in
+
+0:16:46.940,0:16:50.090
+the in the mix here so that we can be
+
+0:16:49.040,0:16:52.220
+more connected and get to know each
+
+0:16:50.090,0:16:53.570
+other a little bit better or at least
+
+0:16:52.220,0:16:55.550
+you know this is one way you guys are
+
+0:16:53.570,0:16:59.540
+get to know us a little better but we'd
+
+0:16:55.550,0:17:02.030
+love for it to go the other way - John
+
+0:16:59.540,0:17:03.650
+Regan is I was about to say maybe in
+
+0:17:02.030,0:17:07.459
+future episodes we could interview
+
+0:17:03.650,0:17:10.850
+moderators whoo that's a great idea this
+
+0:17:07.459,0:17:11.839
+is a call for you know requests for
+
+0:17:10.850,0:17:13.250
+proposals if you'd like to be
+
+0:17:11.839,0:17:17.839
+interviewed on this podcast you can call
+
+0:17:13.250,0:17:25.760
+1-800 we do not have a phone number set
+
+0:17:17.839,0:17:27.079
+up this is a very low-budget podcast we
+
+0:17:25.760,0:17:28.100
+have a couple minutes left I'd love to
+
+0:17:27.079,0:17:30.380
+know if either of you have any thoughts
+
+0:17:28.100,0:17:31.820
+about you know we talked a little bit
+
+0:17:30.380,0:17:33.950
+about how you would like to see the
+
+0:17:31.820,0:17:35.360
+relationship between moderators and
+
+0:17:33.950,0:17:36.680
+community managers evolve a little bit
+
+0:17:35.360,0:17:38.090
+we'd love to see some more communication
+
+0:17:36.680,0:17:40.850
+what are some other ways you'd like to
+
+0:17:38.090,0:17:42.110
+see moderation at Stack Exchange evolved
+
+0:17:40.850,0:17:44.120
+what's kind of what do you feel like is
+
+0:17:42.110,0:17:46.970
+the future of moderation here I think
+
+0:17:44.120,0:17:48.830
+for me we have
+
+0:17:46.970,0:17:50.710
+this concept of you are once your
+
+0:17:48.830,0:17:54.590
+moderator you're always a moderator and
+
+0:17:50.710,0:17:59.630
+it's not been easy for people to sort of
+
+0:17:54.590,0:18:01.549
+slip out of the job and we've done a few
+
+0:17:59.630,0:18:03.110
+things in the past like giving them an
+
+0:18:01.549,0:18:05.179
+opportunity to take a vacation like
+
+0:18:03.110,0:18:07.669
+there's a there's a feature for I'm not
+
+0:18:05.179,0:18:10.159
+going to be at the site for a while but
+
+0:18:07.669,0:18:14.150
+I'd really like to see more ways that we
+
+0:18:10.159,0:18:15.679
+can give people the freedom to say I no
+
+0:18:14.150,0:18:18.590
+longer I'm interested in watering the
+
+0:18:15.679,0:18:20.210
+site and they can just do that and you
+
+0:18:18.590,0:18:23.120
+know you they can always contact us now
+
+0:18:20.210,0:18:24.799
+but it's sort of a like all right well
+
+0:18:23.120,0:18:26.330
+you contact us and then we're gonna set
+
+0:18:24.799,0:18:27.679
+up an election and can you wait until
+
+0:18:26.330,0:18:29.690
+we're done with the election and all
+
+0:18:27.679,0:18:32.620
+that sort of thing and it'd be nice if
+
+0:18:29.690,0:18:36.289
+we could put some more structure around
+
+0:18:32.620,0:18:38.150
+just you know I'm I'm done this is a
+
+0:18:36.289,0:18:41.480
+phase of my life and I'm I'm no longer
+
+0:18:38.150,0:18:43.549
+interested in in being a moderator yeah
+
+0:18:41.480,0:18:47.780
+I think it's a human thing's pretty good
+
+0:18:43.549,0:18:49.669
+you know right it's just mm-hmm yeah we
+
+0:18:47.780,0:18:51.380
+go through phases we go through you know
+
+0:18:49.669,0:18:53.390
+I'm still interested and engaged in this
+
+0:18:51.380,0:18:55.070
+community but I have less time or you
+
+0:18:53.390,0:18:56.150
+know I'm want to focus on asking and
+
+0:18:55.070,0:18:57.559
+answering questions instead of
+
+0:18:56.150,0:18:59.690
+moderating or whatever it's a natural
+
+0:18:57.559,0:19:02.270
+part of being a member of a community if
+
+0:18:59.690,0:19:03.980
+your relationship with you know a person
+
+0:19:02.270,0:19:05.450
+or a community or yourself or your
+
+0:19:03.980,0:19:07.909
+family or whatever if that relationship
+
+0:19:05.450,0:19:09.620
+isn't evolving over time then you know
+
+0:19:07.909,0:19:11.120
+that's that's stagnation that's kind of
+
+0:19:09.620,0:19:14.030
+a problem and we've we've been at this
+
+0:19:11.120,0:19:16.460
+for 10 years and so everyone's
+
+0:19:14.030,0:19:17.900
+relationship should be changing and
+
+0:19:16.460,0:19:19.190
+evolving and if that means stepping back
+
+0:19:17.900,0:19:20.390
+for moderation great if that means you
+
+0:19:19.190,0:19:22.309
+want to become a moderate or get more
+
+0:19:20.390,0:19:24.919
+involved great but we need to have that
+
+0:19:22.309,0:19:26.380
+flexibility to allow people to to grow
+
+0:19:24.919,0:19:29.120
+and change and have their interests
+
+0:19:26.380,0:19:30.830
+evolve just like just like in any other
+
+0:19:29.120,0:19:32.630
+community or any other type of activity
+
+0:19:30.830,0:19:34.460
+what about you on what do you see what
+
+0:19:32.630,0:19:36.049
+you wanna see in the future I would I
+
+0:19:34.460,0:19:39.860
+would like to see the role of the
+
+0:19:36.049,0:19:43.580
+moderator expand to one of an individual
+
+0:19:39.860,0:19:45.770
+who is who is who is living was a living
+
+0:19:43.580,0:19:47.600
+example of what a good member are to be
+
+0:19:45.770,0:19:49.640
+so not just somebody who's competent in
+
+0:19:47.600,0:19:51.500
+the technical in the technical aspects
+
+0:19:49.640,0:19:54.380
+of moderation but also someone who is
+
+0:19:51.500,0:19:56.750
+who's worthy of emulation so to speak
+
+0:19:54.380,0:19:58.250
+somebody who you can who you can follow
+
+0:19:56.750,0:20:00.560
+someone that you can trust someone that
+
+0:19:58.250,0:20:02.510
+that that is you know
+
+0:20:00.560,0:20:05.000
+an evangelist for our site someone that
+
+0:20:02.510,0:20:07.100
+can that can guide new members someone
+
+0:20:05.000,0:20:09.770
+that is you know breath of fresh air
+
+0:20:07.100,0:20:12.830
+somebody who can inspire others and who
+
+0:20:09.770,0:20:15.110
+is so affectionate about the community
+
+0:20:12.830,0:20:17.120
+that it just it just you know everybody
+
+0:20:15.110,0:20:18.860
+gets you know easiest contagious or
+
+0:20:17.120,0:20:20.480
+she's contagious everybody everybody has
+
+0:20:18.860,0:20:23.120
+the same feeling because this individual
+
+0:20:20.480,0:20:25.040
+is moderating so more than just you know
+
+0:20:23.120,0:20:27.800
+the ins and outs of you know removing
+
+0:20:25.040,0:20:30.140
+cleaning fixing editing all that but
+
+0:20:27.800,0:20:32.480
+also somebody who is who is really you
+
+0:20:30.140,0:20:35.930
+know engaged in a level to where they're
+
+0:20:32.480,0:20:38.840
+able to bring and inspire others to to
+
+0:20:35.930,0:20:40.880
+participate more to to you know to write
+
+0:20:38.840,0:20:43.370
+more into edit more to answer more to
+
+0:20:40.880,0:20:45.200
+you know all that I'd like to see the
+
+0:20:43.370,0:20:47.200
+role of a moderator expand to that to
+
+0:20:45.200,0:20:50.900
+those meta aspects to a little bit of a
+
+0:20:47.200,0:20:52.940
+mascot almost or a personally around and
+
+0:20:50.900,0:20:56.210
+inspiring somebody look up to sure yeah
+
+0:20:52.940,0:20:57.860
+sure that's really beautiful sure well
+
+0:20:56.210,0:21:00.140
+on that note and speaking of moderators
+
+0:20:57.860,0:21:02.810
+John do we have a sponsor for this week
+
+0:21:00.140,0:21:06.140
+yeah I did get a sponsorship request
+
+0:21:02.810,0:21:09.500
+right at the just of the last minute
+
+0:21:06.140,0:21:11.510
+here and the sponsor is is very
+
+0:21:09.500,0:21:13.670
+important on the site already but we
+
+0:21:11.510,0:21:15.590
+just want to you know they want to raise
+
+0:21:13.670,0:21:17.420
+their visibility a little bit and remind
+
+0:21:15.590,0:21:20.270
+people about who they are and this is
+
+0:21:17.420,0:21:23.270
+the the moderator diamond every
+
+0:21:20.270,0:21:25.370
+moderator on every site has a little
+
+0:21:23.270,0:21:27.680
+diamond next to their name and it's
+
+0:21:25.370,0:21:29.720
+there to remind you that this is the
+
+0:21:27.680,0:21:31.520
+person you know perhaps to look up to us
+
+0:21:29.720,0:21:33.500
+as one was talking about we've got a lot
+
+0:21:31.520,0:21:35.990
+of great people who already have
+
+0:21:33.500,0:21:39.440
+diamonds next to their name and and so
+
+0:21:35.990,0:21:40.940
+we want to show that they have that
+
+0:21:39.440,0:21:44.480
+commitment by putting a little symbol
+
+0:21:40.940,0:21:48.220
+next to their name and then the diamond
+
+0:21:44.480,0:21:50.990
+also can sometimes signify employees and
+
+0:21:48.220,0:21:53.350
+you know that can get confusing because
+
+0:21:50.990,0:21:57.110
+you've got moderators and employees but
+
+0:21:53.350,0:22:00.350
+but the diamond shows that even our
+
+0:21:57.110,0:22:02.660
+employee our employees are on you know
+
+0:22:00.350,0:22:04.730
+they're not some super high level person
+
+0:22:02.660,0:22:07.520
+beyond moderators in fact a lot of our
+
+0:22:04.730,0:22:09.410
+employees have diamonds and don't do any
+
+0:22:07.520,0:22:11.990
+moderation at all they just have it
+
+0:22:09.410,0:22:14.160
+there so that they can take care of a
+
+0:22:11.990,0:22:15.960
+few things on the site so we response
+
+0:22:14.160,0:22:18.620
+by the diamond all diamonds next to the
+
+0:22:15.960,0:22:33.870
+moderator name it's like we always say
+
+0:22:18.620,0:22:36.330
+diamonds are immediately know I actually
+
+0:22:33.870,0:22:38.640
+I thought it was talking and I had to
+
+0:22:36.330,0:22:42.000
+refrain from from bursting it out until
+
+0:22:38.640,0:22:43.710
+he was in on that note with that
+
+0:22:42.000,0:22:45.810
+incredible joke that everyone loves and
+
+0:22:43.710,0:22:48.390
+made nobody groan I think we should call
+
+0:22:45.810,0:22:49.860
+it it's it's been a wonderful 22 22 and
+
+0:22:48.390,0:22:52.500
+a half minutes 23 by the time I'm done
+
+0:22:49.860,0:22:54.480
+talking I'm gonna do Joel's outro you've
+
+0:22:52.500,0:22:56.550
+gone and wasted another 22 minutes of
+
+0:22:54.480,0:22:58.470
+your life listening to the meta petting
+
+0:22:56.550,0:23:02.050
+zoo podcast thanks for hanging out with
+
+0:22:58.470,0:23:05.150
+us and we will talk to you next time
+
+0:23:02.050,0:23:05.150
+[Music]
+
+0:23:18.960,0:23:22.009
+[Music]
+
