@@ -21,6 +21,95 @@
     <generator>Dropcaster 1.0.0</generator>
     <itunes:keywords>meta,stack exchange,stack overflow,q&amp;a,questions,answers,community</itunes:keywords>
     <item>
+      <title>3: How do we grade questions?</title>
+      <itunes:title>How do we grade questions?</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:author>The Stack Exchange Community Team</itunes:author>
+      <itunes:subtitle>Welcome to the Unicorn Meta Zoo, a podcast by...</itunes:subtitle>
+      <itunes:summary>Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack
+Exchange community team. If you want to avoid spoilers, jump [straight
+to the
+audio](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/question-grade.mp3).
+
+### Participants
+
+[![hairboat](https://stackexchange.com/users/flair/463168.png)](https://stackexchange.com/users/463168)
+[![Juan
+M](https://stackexchange.com/users/flair/6254215.png)](https://stackexchange.com/users/6254215)
+[![Jon
+Ericson](https://stackexchange.com/users/flair/1083.png)](https://stackexchange.com/users/1083)
+
+We're talking about whether or not there is such a thing as a bad
+question and how we might detect one if it exists.
+
+### Links
+
+-   [How is question quality measured in A/B
+    tests?](https://meta.stackexchange.com/questions/302970/how-is-question-quality-measured-in-a-b-tests)
+-   [Ask a question template v1 experiment
+    results](https://meta.stackoverflow.com/questions/363051/ask-a-question-template-v1-experiment-results)
+-   ["Ask a question" wizard
+    prototype](https://meta.stackoverflow.com/questions/369682/ask-a-question-wizard-prototype)
+
+### Transcript
+
+Some users have generously volunteered to transcribe episodes on [the
+podcast
+wiki](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki).
+I'm extremely grateful for users who helped fill in most of [the
+previous episode's
+transcript](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki/What-is-the-role-of-moderators%3F-%5BTranscript%5D):
+
+-   grooveplex
+-   ocæon
+-   MilkyWay90
+
+### Meta
+
+It was my turn to host and I think I'm not overly biased when I say that
+Abby and Juan do a much better job in that role. For one thing, I was
+pretty anxious that we'd end the recording before we ran out of things
+to talk about. Not entirely unrelated: I say the word "template" in a
+weird way.
+
+It didn't make the recording, but Abby started talking to her cat right
+after we said goodbye.
+
+### What do you think?
+
+[Take a
+listen](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/question-grade.mp3)
+and respond in the answers below.</itunes:summary>
+      <description>&lt;p&gt;Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack Exchange community team. If you want to avoid spoilers, jump &lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/question-grade.mp3"&gt;straight to the audio&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="participants"&gt;Participants&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://stackexchange.com/users/463168"&gt;&lt;img src="https://stackexchange.com/users/flair/463168.png" alt="hairboat" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/6254215"&gt;&lt;img src="https://stackexchange.com/users/flair/6254215.png" alt="Juan M" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/1083"&gt;&lt;img src="https://stackexchange.com/users/flair/1083.png" alt="Jon Ericson" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We’re talking about whether or not there is such a thing as a bad question and how we might detect one if it exists.&lt;/p&gt;
+&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://meta.stackexchange.com/questions/302970/how-is-question-quality-measured-in-a-b-tests"&gt;How is question quality measured in A/B tests?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://meta.stackoverflow.com/questions/363051/ask-a-question-template-v1-experiment-results"&gt;Ask a question template v1 experiment results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://meta.stackoverflow.com/questions/369682/ask-a-question-wizard-prototype"&gt;“Ask a question” wizard prototype&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="transcript"&gt;Transcript&lt;/h3&gt;
+&lt;p&gt;Some users have generously volunteered to transcribe episodes on &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki"&gt;the podcast wiki&lt;/a&gt;. I’m extremely grateful for users who helped fill in most of &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki/What-is-the-role-of-moderators%3F-%5BTranscript%5D"&gt;the previous episode’s transcript&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;grooveplex&lt;/li&gt;
+&lt;li&gt;ocæon&lt;/li&gt;
+&lt;li&gt;MilkyWay90&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="meta"&gt;Meta&lt;/h3&gt;
+&lt;p&gt;It was my turn to host and I think I’m not overly biased when I say that Abby and Juan do a much better job in that role. For one thing, I was pretty anxious that we’d end the recording before we ran out of things to talk about. Not entirely unrelated: I say the word “template” in a weird way.&lt;/p&gt;
+&lt;p&gt;It didn’t make the recording, but Abby started talking to her cat right after we said goodbye.&lt;/p&gt;
+&lt;h3 id="what-do-you-think"&gt;What do you think?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/question-grade.mp3"&gt;Take a listen&lt;/a&gt; and respond in the answers below.&lt;/p&gt;</description>
+      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E3.jpg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/question-grade.mp3" length="15934345" type="audio/mp3"/>
+      <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/question-grade.mp3</link>
+      <guid isPermaLink="false">72e2bd47fd24175c4e83e4fae8195941dff0d9c5</guid>
+      <pubDate>Tue, 21 May 2019 07:26:19 -0700</pubDate>
+      <itunes:duration>1569</itunes:duration>
+    </item>
+    <item>
       <title>2: What is the role of moderators?</title>
       <itunes:title>What is the role of moderators?</itunes:title>
       <itunes:episode>2</itunes:episode>
@@ -119,7 +208,7 @@ and respond in the answers below.</itunes:summary>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3" length="13513528" type="audio/mp3"/>
       <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/moderation.mp3</link>
       <guid isPermaLink="false">6d1409c9655ddf3b4e17df5ec3f00b1899f8e3fe</guid>
-      <pubDate>Tue, 30 Apr 2019 10:20:33 -0400</pubDate>
+      <pubDate>Tue, 30 Apr 2019 07:20:33 -0700</pubDate>
       <itunes:duration>1402</itunes:duration>
     </item>
     <item>
@@ -216,7 +305,7 @@ and respond in the answers below.</itunes:summary>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/why-podcast.mp3" length="13185167" type="audio/mp3"/>
       <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/why-podcast.mp3</link>
       <guid isPermaLink="false">914b98ccf421201933b94cecbac222d81fd3b4c6</guid>
-      <pubDate>Mon, 15 Apr 2019 02:00:26 -0400</pubDate>
+      <pubDate>Sun, 14 Apr 2019 23:00:26 -0700</pubDate>
       <itunes:duration>1278</itunes:duration>
     </item>
   </channel>
