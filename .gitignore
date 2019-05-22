@@ -8,3 +8,5 @@ _site/
 #*#
 
 feedvalidator
+
+Gemfile.lock
