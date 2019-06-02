@@ -1,8 +1,8 @@
-language: ruby
+language: generic
 
 before_install:
 - gem install bundler
-- pyenv install 2.7.8
+- bundle install --jobs=3 --retry=3
 
 script:
  - bundle exec rake test
@@ -10,6 +10,6 @@ script:
 cache:
   bundler: true
   directories:
-  - $TRAVIS_BUILD_DIR/feedvalidator
+  - $TRAVIS_BUILD_DIR/feedvalidator-master
   
 sudo: false # route your build to the container-based infrastructure for a faster build
