@@ -10,4 +10,4 @@ _site/
 feedvalidator-master
 master.zip
 
-Gemfile.lock
+#Gemfile.lock
