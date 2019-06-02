@@ -1,6 +1,7 @@
 language: ruby
 
 before_install:
+- gem install bundler
 - pyenv install 2.7.8
 
 script:
