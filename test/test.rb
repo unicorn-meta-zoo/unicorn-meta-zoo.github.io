@@ -3,6 +3,7 @@ require 'digest/md5'
 
 class TestDocsDump < Minitest::Test
   def setup
+    system("ls -l *")
     if !Dir.exist?('feedvalidator-master')      
       #system("git clone https://github.com/jericson/feedvalidator.git")
       if !File.exist?('master.zip')
