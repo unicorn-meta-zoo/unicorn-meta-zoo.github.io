@@ -5,12 +5,7 @@ class TestDocsDump < Minitest::Test
   def setup
     #system("ls -l *")
     if !File.exist?('feedvalidator-master/src/demo.py')      
-      #system("git clone https://github.com/jericson/feedvalidator.git")
-      if !File.exist?('master.zip')
-        system("wget https://github.com/jericson/feedvalidator/archive/master.zip")
-        assert_equal $?, 0
-      end
-      system("unzip master.zip")
+      system("git clone https://github.com/jericson/feedvalidator.git")
       assert_equal $?, 0
     end
   end
