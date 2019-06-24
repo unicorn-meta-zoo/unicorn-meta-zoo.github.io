@@ -18,9 +18,9 @@ it works:
    credited in the show notes.
 
 3. When a new episode is ready to be transcribed, I'll email out a
-   Google doc to the club that includes a link to a future
-   episode. (Please don't share that link or the document with
-   anyone!)
+   document (probably a private Gist, actually) to the club that
+   includes a link to a future episode. (Please don't share that link
+   or the document with anyone!)
 
 4. As you listen to the new episode, transcribe a couple of minutes to
    help people who want to read what's said. (Please leave a timestamp
