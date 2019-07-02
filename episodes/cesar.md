@@ -15,14 +15,17 @@ Exchange community team. If you want to avoid spoilers, jump
 
 ### Participants 
 
-[![Cesar M](https://stackexchange.com/users/flair/1083508266.png)](https://stackexchange.com/users/1083508266)
+[![Cesar M](https://stackexchange.com/users/flair/15375904.png)](https://stackexchange.com/users/15375904/)
 [![Jon Ericson](https://stackexchange.com/users/flair/1083.png)](https://stackexchange.com/users/1083)
 
 An interview with Cesar M, [our newest community manager](https://meta.stackexchange.com/questions/326611/announcing-the-arrival-of-valued-associate-679-cesar-manara).
 
 ### Links
 
-* [List any links that we might have referenced at some point in the conversation. Or just delete this section if there's nothing here.]
+* [CMX Training](https://training.cmxhub.com/)
+* [Writing](https://writing.stackexchange.com/)
+* [Role-playing Games](https://rpg.stackexchange.com/)
+* [Board & Card Games](https://boardgames.stackexchange.com/)
 
 ### Transcript
 
