@@ -18,7 +18,9 @@ Exchange Community Management Team. If you want to avoid spoilers, jump
 [![Catija](https://stackexchange.com/users/flair/3979517.png)](https://stackexchange.com/users/3979517)
 [![Jon Ericson](https://stackexchange.com/users/flair/1083.png)](https://stackexchange.com/users/1083)
 
-Back in May, Jon interviewed me ([Catija](https://meta.stackexchange.com/questions/313086/welcome-stack-overflow-valued-associate-599-catherine-kuck-aka-catija)) while we were both in NYC for a meetup. Serendipitously, I get to share it with y'all on the one-year anniversary of my first day working for Stack Exchange. The interview was a lot of fun to do and I hope you enjoy listening to it!
+Back in May, Jon interviewed me ([Catija](https://meta.stackexchange.com/questions/313086/welcome-stack-overflow-valued-associate-599-catherine-kuck-aka-catija)) 
+while we were both in NYC for a meetup. Serendipitously, I get to share it with y'all on the one-year anniversary of my first day working for Stack Exchange. 
+The interview was a lot of fun to do and I hope you enjoy listening to it!
 
 ### Links
 
