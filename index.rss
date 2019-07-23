@@ -21,6 +21,88 @@
     <generator>Dropcaster 0.0.8</generator>
     <itunes:keywords>meta,stack exchange,stack overflow,q&amp;a,questions,answers,community</itunes:keywords>
     <item>
+      <title>6: Interview with Catija</title>
+      <itunes:title>Interview with Catija</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:author>The Stack Exchange Community Team</itunes:author>
+      <description>&lt;p&gt;Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack Exchange Community Management Team. If you want to avoid spoilers, jump &lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3"&gt;straight to the audio&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="participants"&gt;Participants&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://stackexchange.com/users/3979517"&gt;&lt;img src="https://stackexchange.com/users/flair/3979517.png" alt="Catija" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/1083"&gt;&lt;img src="https://stackexchange.com/users/flair/1083.png" alt="Jon Ericson" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Back in May, Jon interviewed me (&lt;a href="https://meta.stackexchange.com/questions/313086/welcome-stack-overflow-valued-associate-599-catherine-kuck-aka-catija"&gt;Catija&lt;/a&gt;) while we were both in NYC for a meetup. Serendipitously, I get to share it with y’all on the one-year anniversary of my first day working for Stack Exchange. The interview was a lot of fun to do and I hope you enjoy listening to it!&lt;/p&gt;
+&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://crafts.stackexchange.com/"&gt;Arts &amp;amp; Crafts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://interpersonal.stackexchange.com/"&gt;Interpersonal Skills&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="transcript"&gt;Transcript&lt;/h3&gt;
+&lt;p&gt;Some users have generously volunteered to transcribe episodes on &lt;a href="https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki"&gt;the podcast wiki&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="meta"&gt;Meta&lt;/h3&gt;
+&lt;p&gt;Jon Ericson interviewed several community managers at our most recent meet-up. There were three questions:&lt;/p&gt;
+&lt;ol type="1"&gt;
+&lt;li&gt;What, if anything, gets you excited about your job?&lt;/li&gt;
+&lt;li&gt;How did your life experience before Stack Exchange prepare you for this role?&lt;/li&gt;
+&lt;li&gt;What is your favorite site?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We’re running these interviews for the summer (or winter, if you are in the southern hemisphere) and we’ll be back to the regular format around August.&lt;/p&gt;
+&lt;h3 id="what-do-you-think"&gt;What do you think?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3"&gt;Take a listen&lt;/a&gt; and respond in the answers below.&lt;/p&gt;</description>
+      <itunes:subtitle>Welcome to the Unicorn Meta Zoo, a podcast by...</itunes:subtitle>
+      <itunes:summary>Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack
+Exchange Community Management Team. If you want to avoid spoilers, jump
+[straight to the
+audio](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3).
+
+### Participants
+
+[![Catija](https://stackexchange.com/users/flair/3979517.png)](https://stackexchange.com/users/3979517)
+[![Jon
+Ericson](https://stackexchange.com/users/flair/1083.png)](https://stackexchange.com/users/1083)
+
+Back in May, Jon interviewed me
+([Catija](https://meta.stackexchange.com/questions/313086/welcome-stack-overflow-valued-associate-599-catherine-kuck-aka-catija))
+while we were both in NYC for a meetup. Serendipitously, I get to share
+it with y'all on the one-year anniversary of my first day working for
+Stack Exchange. The interview was a lot of fun to do and I hope you
+enjoy listening to it!
+
+### Links
+
+-   [Arts &amp; Crafts](https://crafts.stackexchange.com/)
+-   [Interpersonal Skills](https://interpersonal.stackexchange.com/)
+
+### Transcript
+
+Some users have generously volunteered to transcribe episodes on [the
+podcast
+wiki](https://github.com/unicorn-meta-zoo/unicorn-meta-zoo.github.io/wiki).
+
+### Meta
+
+Jon Ericson interviewed several community managers at our most recent
+meet-up. There were three questions:
+
+1.  What, if anything, gets you excited about your job?
+2.  How did your life experience before Stack Exchange prepare you for
+    this role?
+3.  What is your favorite site?
+
+We're running these interviews for the summer (or winter, if you are in
+the southern hemisphere) and we'll be back to the regular format around
+August.
+
+### What do you think?
+
+[Take a
+listen](https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3)
+and respond in the answers below.</itunes:summary>
+      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E6.jpg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3" length="12976391" type="audio/mp3"/>
+      <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/catija.mp3</link>
+      <guid isPermaLink="false">ab44404b4a2ba3e4f108c355f983922b8624358b</guid>
+      <pubDate>Tue, 23 Jul 2019 12:21:37 +0100</pubDate>
+      <itunes:duration>810</itunes:duration>
+    </item>
+    <item>
       <title>5: Interview with Cesar M</title>
       <itunes:title>Interview with Cesar M</itunes:title>
       <itunes:episode>5</itunes:episode>

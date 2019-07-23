@@ -6,6 +6,7 @@
 3. [How do we grade questions?](https://meta.stackexchange.com/questions/328475/unicorn-meta-zoo-3-how-do-we-grade-questions)
 4. [What makes for a healthy community?](https://meta.stackexchange.com/questions/329374/unicorn-meta-zoo-4-what-makes-for-a-healthy-community)
 5. [Interview with Cesar M](https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m)
+6. [Interview with Catija](https://meta.stackexchange.com/questions/331248/unicorn-meta-zoo-6-interview-with-catija)
 
 Get your
 [RSS feed of all episodes](https://unicorn-meta-zoo.github.io/index.rss)!
