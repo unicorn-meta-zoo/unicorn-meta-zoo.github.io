@@ -4,6 +4,7 @@ title: Interview with Catija
 artist: Catija and Jon Ericson
 year: 2019
 recording_date: 2019-04-30
+release_date: 2019-07-23
 url: https://meta.stackexchange.com/questions/331248/unicorn-meta-zoo-6-interview-with-catija
 comment: An interview with Catija, a Stack Exchange community manager.
 sponsor: 

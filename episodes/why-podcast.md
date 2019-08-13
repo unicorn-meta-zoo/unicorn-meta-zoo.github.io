@@ -4,6 +4,7 @@ title: Why another podcast?
 artist: hairboat, Juan M and Jon Ericson
 year: 2019
 recording_date: 2018-12-19
+release_date: 2019-04-09
 url: https://meta.stackexchange.com/questions/326560/unicorn-meta-zoo-1-why-another-podcast
 comment: We're talking about why we're doing a podcast.
 sponsor: Ask a Question wizard

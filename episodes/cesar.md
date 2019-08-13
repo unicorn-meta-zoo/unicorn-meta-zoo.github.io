@@ -4,6 +4,7 @@ title: Interview with Cesar M
 artist: Cesar M and Jon Ericson
 year: 2019
 recording_date: 2019-04-30
+release_date: 2019-07-02
 url: https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m
 comment: An interview with Cesar M, a Stack Exchange community manager.
 sponsor: 

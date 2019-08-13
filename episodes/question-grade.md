@@ -4,7 +4,8 @@ title: How do we grade questions?
 artist: hairboat, Juan M and Jon Ericson
 year: 2019
 recording_date: 2019-02-27
-url: https://meta.stackexchange.com/questions/tagged/unicorn-meta-zoo
+release_date: 2019-05-21
+url: https://meta.stackexchange.com/questions/328475/unicorn-meta-zoo-3-how-do-we-grade-questions
 comment: We're talking about whether or not there is such a thing as a bad question and how we might detect one if it exists.
 sponsor: Top bar
 ---

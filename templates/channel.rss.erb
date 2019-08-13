@@ -71,7 +71,11 @@
       <enclosure url="<%= item.url %>" length="<%= item.file_size %>" type="audio/mp3"/>
       <link><%= item.url %></link>
       <guid isPermaLink="false"><%= h(item.uuid) %></guid>
-      <pubDate><%= h(item.pub_date.to_formatted_s(:rfc822)) %></pubDate>
+      <% if item.tag2.TDRL.blank? %>
+        <pubDate><%= h(item.pub_date.to_formatted_s(:rfc822)) %></pubDate>
+      <% else %>
+        <pubDate><%= h(Time.parse(item.tag2.TDRL).to_formatted_s(:rfc822)) %></pubDate>
+      <% end %>
       <itunes:duration><%= item.duration.to_i %></itunes:duration>
     <% unless item.keywords.blank? %>
       <itunes:keywords><%= item.keywords.map{|k| h(k)}.join(',') %></itunes:keywords>

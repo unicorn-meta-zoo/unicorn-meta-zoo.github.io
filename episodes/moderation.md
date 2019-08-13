@@ -4,7 +4,8 @@ title: What is the role of moderators?
 Artist: hairboat, Juan M and Jon Ericson
 year: 2019
 recording_date: 2019-01-15
-url: https://meta.stackexchange.com/questions/tagged/unicorn-meta-zoo
+release_date: 2019-04-30
+url: https://meta.stackexchange.com/questions/327538/unicorn-meta-zoo-2-what-is-the-role-of-moderators
 comment: We're talking about moderation and how it's different on Stack Exchange than on forums.
 sponsor: Moderator diamond
 ---

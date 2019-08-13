@@ -4,6 +4,7 @@ title: What makes for a healthy community?
 artist: hairboat, Juan M and Jon Ericson
 year: 2019
 recording_date: 2019-03-13
+release_date: 2019-06-11
 url: https://meta.stackexchange.com/questions/329374/unicorn-meta-zoo-4-what-makes-for-a-healthy-community
 comment: We are talking about the attributes of a healthy community.
 sponsor: Chat

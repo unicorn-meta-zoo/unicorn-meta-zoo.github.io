@@ -8,7 +8,7 @@ dir=`dirname $post`
 yaml=$dir/`basename -s md $post`yaml
 awk '/^\--- *$/ { ++delim; next } { if(delim == 1) print }' $post > $yaml
 
-for i in episode title artist comment year recording_date episode_url; do
+for i in episode title artist comment year release_date recording_date episode_url; do
     yq r $yaml $i | read $i
 done
 
@@ -38,15 +38,18 @@ eyeD3 --track $episode \
       --add-image "${url}E$episode.jpg:FRONT_COVER"  \
       --title "$title" \
       --artist "$artist" \
-      -Y $year \
       --recording-date "$recording_date"\
+      --release-date "$release_date"\
       --comment "$comment" \
-      --text-frame="TIT3:$description" \
       --text-frame="TDES:$html_desc" \
+      --text-frame="TDRL:$release_date" \
       --url-frame "WOAF:$episode_url" \
       --album "Unicorn Meta Zoo" \
       --genre 186 \
       $file
+
+## This thing vvvvv doesn't really work for most podcatchers.
+#      --text-frame="TIT3:$description" 
 
 eyeD3 -P itunes-podcast $file --add
 
