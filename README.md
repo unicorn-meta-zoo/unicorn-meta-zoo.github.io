@@ -7,6 +7,7 @@
 4. [What makes for a healthy community?](https://meta.stackexchange.com/questions/329374/unicorn-meta-zoo-4-what-makes-for-a-healthy-community)
 5. [Interview with Cesar M](https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m)
 6. [Interview with Catija](https://meta.stackexchange.com/questions/331248/unicorn-meta-zoo-6-interview-with-catija)
+7. [Interview with Nicolas](https://meta.stackexchange.com/questions/332176/unicorn-meta-zoo-7-interview-with-nicolas)
 
 Get your
 [RSS feed of all episodes](https://unicorn-meta-zoo.github.io/index.rss)!
