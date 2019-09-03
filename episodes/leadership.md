@@ -1,5 +1,5 @@
 ---
-episode: 7
+episode: 8
 title: What does leadership look like in our communities?
 artist: hairboat, Juan M and Jon Ericson
 year: 2019
