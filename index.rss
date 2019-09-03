@@ -21,9 +21,9 @@
     <generator>Dropcaster 1.0.0</generator>
     <itunes:keywords>meta,stack exchange,stack overflow,q&amp;a,questions,answers,community</itunes:keywords>
     <item>
-      <title>7: What does leadership look like in our communities?</title>
+      <title>8: What does leadership look like in our communities?</title>
       <itunes:title>What does leadership look like in our communities?</itunes:title>
-      <itunes:episode>7</itunes:episode>
+      <itunes:episode>8</itunes:episode>
       <itunes:author>The Stack Exchange Community Team</itunes:author>
       <description>&lt;p&gt;Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack Exchange community team. If you want to avoid spoilers, jump &lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3"&gt;straight to the audio&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id="participants"&gt;Participants&lt;/h3&gt;
@@ -42,10 +42,10 @@
 &lt;p&gt;&lt;a href="https://twitter.com/horse_ebooks/status/228032106859749377"&gt;“Unfortunately, as you probably already know, people”&lt;/a&gt; could be a leadership motto. It’s tempting to blame folks for problems we have as Community Managers. On the other hand, we benefit from leaders empowering others to accomplish our goals. I am forever in their debt.&lt;/p&gt;
 &lt;h3 id="what-do-you-think"&gt;What do you think?&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3"&gt;Take a listen&lt;/a&gt; and respond in the answers below.&lt;/p&gt;</description>
-      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E7.jpg"/>
+      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E8.jpg"/>
       <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3" length="15473253" type="audio/mp3"/>
       <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3</link>
-      <guid isPermaLink="false">3dd72d732fb85ee387a6768d781e5e9fdf0ac4b5</guid>
+      <guid isPermaLink="false">fc2f0f40c6422b11a59ece4610f92d1cce6162b9</guid>
       <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
       <itunes:duration>1537</itunes:duration>
     </item>
