@@ -21,6 +21,35 @@
     <generator>Dropcaster 1.0.0</generator>
     <itunes:keywords>meta,stack exchange,stack overflow,q&amp;a,questions,answers,community</itunes:keywords>
     <item>
+      <title>7: What does leadership look like in our communities?</title>
+      <itunes:title>What does leadership look like in our communities?</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:author>The Stack Exchange Community Team</itunes:author>
+      <description>&lt;p&gt;Welcome to the Unicorn Meta Zoo, a podcast by members of the Stack Exchange community team. If you want to avoid spoilers, jump &lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3"&gt;straight to the audio&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id="participants"&gt;Participants&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://stackexchange.com/users/463168"&gt;&lt;img src="https://stackexchange.com/users/flair/463168.png" alt="hairboat" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/6254215"&gt;&lt;img src="https://stackexchange.com/users/flair/6254215.png" alt="Juan M" /&gt;&lt;/a&gt; &lt;a href="https://stackexchange.com/users/1083"&gt;&lt;img src="https://stackexchange.com/users/flair/1083.png" alt="Jon Ericson" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We are talking about aspects of leadership in our communities.&lt;/p&gt;
+&lt;h3 id="links"&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Abby’s definition of a leader reminds me of the &lt;a href="https://en.wikipedia.org/wiki/I_know_it_when_I_see_it"&gt;Potter Stewart test&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Joel’s book is &lt;a href="https://www.joelonsoftware.com/2007/06/05/smart-and-gets-things-done/"&gt;&lt;em&gt;Smart and Gets Things Done&lt;/em&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;We set up a &lt;a href="https://stackoverflow.com/teams"&gt;Team&lt;/a&gt; just for out moderators to share their wisdom and knowledge.&lt;/li&gt;
+&lt;li&gt;Our elections uses a &lt;a href="https://stackoverflow.blog/2016/03/01/fair-elections-and-stv/"&gt;single transferable vote system&lt;/a&gt; for taking your preferences into account.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="meta"&gt;Meta&lt;/h3&gt;
+&lt;p&gt;“This is the &lt;a href="https://i.stack.imgur.com/1gDCd.gif"&gt;no touching&lt;/a&gt; podcast.” This is certainly correct since none of us are even in the same state. If anyone ever asks you to explain a double entendre, change the subject immediately as every word out of your mouth will instantly take on an unintended sexual meaning.&lt;/p&gt;
+&lt;p&gt;My title really did change to &lt;a href="https://jlericson.com/2019/05/02/community_product_manager.html"&gt;Community Product Manager&lt;/a&gt;. It’s mostly ceremonial.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/horse_ebooks/status/228032106859749377"&gt;“Unfortunately, as you probably already know, people”&lt;/a&gt; could be a leadership motto. It’s tempting to blame folks for problems we have as Community Managers. On the other hand, we benefit from leaders empowering others to accomplish our goals. I am forever in their debt.&lt;/p&gt;
+&lt;h3 id="what-do-you-think"&gt;What do you think?&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3"&gt;Take a listen&lt;/a&gt; and respond in the answers below.&lt;/p&gt;</description>
+      <itunes:image href="https://unicorn-meta-zoo.github.io/episodes/E7.jpg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3" length="15473253" type="audio/mp3"/>
+      <link>https://dts.podtrac.com/redirect.mp3/unicorn-meta-zoo.github.io/episodes/leadership.mp3</link>
+      <guid isPermaLink="false">3dd72d732fb85ee387a6768d781e5e9fdf0ac4b5</guid>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 -0700</pubDate>
+      <itunes:duration>1537</itunes:duration>
+    </item>
+    <item>
       <title>1: Why another podcast?</title>
       <itunes:title>Why another podcast?</itunes:title>
       <itunes:episode>1</itunes:episode>
