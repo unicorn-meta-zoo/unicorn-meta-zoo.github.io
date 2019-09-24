@@ -8,6 +8,8 @@
 5. [Interview with Cesar M](https://meta.stackexchange.com/questions/330400/unicorn-meta-zoo-5-interview-with-cesar-m)
 6. [Interview with Catija](https://meta.stackexchange.com/questions/331248/unicorn-meta-zoo-6-interview-with-catija)
 7. [Interview with Nicolas](https://meta.stackexchange.com/questions/332176/unicorn-meta-zoo-7-interview-with-nicolas)
+8. [What does leadership look like in our communities?](https://meta.stackexchange.com/questions/332981/unicorn-meta-zoo-8-what-does-leadership-look-like-in-our-communities)
+9. [How do we handle problem users?](https://meta.stackexchange.com/questions/333763/unicorn-meta-zoo-9-how-do-we-handle-problem-users)
 
 Get your
 [RSS feed of all episodes](https://unicorn-meta-zoo.github.io/index.rss)!
