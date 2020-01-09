@@ -1,5 +1,5 @@
 ## Unicorn Meta Zoo
-### A Stack Exchange community manager podcast
+### A community manager podcast
 
 1. [Why another podcast?](https://meta.stackexchange.com/questions/326560/unicorn-meta-zoo-1-why-another-podcast)
 2. [What is the role of moderators?](https://meta.stackexchange.com/questions/327538/unicorn-meta-zoo-2-what-is-the-role-of-moderators)
