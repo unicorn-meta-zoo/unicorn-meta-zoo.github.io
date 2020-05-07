@@ -23,10 +23,12 @@ github_username:  jericson
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-leap-day
+#theme: minima
 google_analytics: [UA-61223164-4]
 plugins:
   - jekyll-feed
+  - jekyll-readme-index
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
